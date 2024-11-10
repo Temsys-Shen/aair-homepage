@@ -1,0 +1,14 @@
+<svg width="128.000000" height="128.000000" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip2_429">
+			<rect id="quill-pen-line" width="128.000000" height="128.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="quill-pen-line" width="128.000000" height="128.000000" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip2_429)">
+		<path id="矢量 128" d="M37.01 74.85C35.77 78.18 34.72 81.25 33.78 84.36C38.9 80.65 44.98 78.29 52.01 77.41C65.41 75.73 77.32 66.89 83.34 55.77L75.58 48.01L83.12 40.46L88.45 35.12C90.74 32.83 93.33 28.59 96.06 22.49C66.24 27.11 47.97 45.38 37 74.85L37.01 74.85ZM90.66 48L96 53.33C90.66 69.33 74.66 85.33 53.33 87.99C39.09 89.78 30.2 99.55 26.65 117.33L16 117.33C21.33 85.33 32 10.66 112 10.66C106.66 26.65 101.34 37.31 96.01 42.65L90.66 48Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="evenodd"/>
+	</g>
+</svg>
