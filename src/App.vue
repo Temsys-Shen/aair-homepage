@@ -14,8 +14,8 @@ import JLU from "./assets/吉林大学校徽.svg";
       style="width: 100%; height: 70%; pointer-events: none"
     />
     <div class="links">
-      <a href="https://ans.museday.top" target="_blank">AAIR-Q&A</a>
-      <a href="https://git.museday.top" target="_blank">AAIR-Gitea</a>
+      <a href="http://ans.museday.top" target="_blank">AAIR-Q&A</a>
+      <a href="http://git.museday.top" target="_blank">AAIR-Gitea</a>
     </div>
   </header>
   <div class="about">
